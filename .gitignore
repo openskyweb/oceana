@@ -1,14 +1,9 @@
-# Ignore these files in sync.
-
-custom.css
-test.php
-
 # ignore everything ...
 /*
 # ... but the following
-!/.functions.php
-!/.README.md
-!/.screenshot.png
-!/.style.css
+!functions.php
+!README.md
+!screenshot.png
+!style.css
 
 
