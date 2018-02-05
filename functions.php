@@ -199,3 +199,6 @@ function opensky_credits_function( $atts, $content = null ) {
 
 // Gravity Forms Feature: Field Label Visibility
 add_filter( 'gform_enable_field_label_visibility_settings', '__return_true' );
+
+//* Include More Customizations
+include_once( get_stylesheet_directory_uri() . '/custom.php' );
