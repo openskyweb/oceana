@@ -1,2 +1,2 @@
-# template
-Child Theme Template - Genesis
+# Oceana
+Genesis Child Theme
