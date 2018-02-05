@@ -15,7 +15,7 @@ include_once( get_template_directory() . '/lib/init.php' );
 
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Oceana' );
-define( 'CHILD_THEME_URL', 'http://www.openskywebstudio.com/' );
+define( 'CHILD_THEME_URL', 'https://github.com/openskyweb/oceana' );
 define( 'CHILD_THEME_VERSION', '2.3.1' );
 
 //* Enqueue Scripts and Styles
