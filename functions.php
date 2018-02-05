@@ -1,10 +1,10 @@
 <?php
 /**
- * Open Sky Template
+ * Oceana
  *
  * This file adds functions to the Genesis Child Theme.
  *
- * @package Open Sky Template
+ * @package Oceana
  * @author  Open Sky Web Studio
  * @license GPL-2.0+
  * @link    http://www.openskywebstudio.com/
@@ -14,7 +14,7 @@
 include_once( get_template_directory() . '/lib/init.php' );
 
 //* Child theme (do not remove)
-define( 'CHILD_THEME_NAME', 'Open Sky Template' );
+define( 'CHILD_THEME_NAME', 'Oceana' );
 define( 'CHILD_THEME_URL', 'http://www.openskywebstudio.com/' );
 define( 'CHILD_THEME_VERSION', '2.3.1' );
 
