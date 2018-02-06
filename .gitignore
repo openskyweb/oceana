@@ -1,10 +1,1 @@
-# ignore everything ...
-*
-# ... but the following
-!functions.php
-!README.md
-!screenshot.png
-!style.css
-!.gitignore
-
 
