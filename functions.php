@@ -201,4 +201,4 @@ function opensky_credits_function( $atts, $content = null ) {
 add_filter( 'gform_enable_field_label_visibility_settings', '__return_true' );
 
 //* Include More Customizations
-file_exists(get_stylesheet_directory_uri() . '/custom.php') AND include_once get_stylesheet_directory_uri() . '/custom.php';
+file_exists(get_stylesheet_directory() . '/custom.php') AND include_once get_stylesheet_directory() . '/custom.php';
